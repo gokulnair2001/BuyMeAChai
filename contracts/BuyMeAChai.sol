@@ -1,6 +1,8 @@
 //SPDX-License-Identifier: Unlicense
 pragma solidity ^0.8.0;
 
+// Deployed to Goerli at 0xff82a1379Ea2864a8B632FC96d692316BacFd34d
+
 contract BuyMeAChai {
     // Event to emit when a memo is created    
     event NewMemo(
@@ -16,7 +18,7 @@ contract BuyMeAChai {
     // Memo Struct
     struct Memo {
         address from;
-        uint256 timeStamp;
+        uint256 timestamp;
         string name;
         string message;
     }
