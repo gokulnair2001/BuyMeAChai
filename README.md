@@ -1,4 +1,4 @@
-# Buy Me A Chai!
+# Buy Me A Chai ☕️
 * Ever thought of decentralised version of Buy Me A Coffee, Here it is!!
 
 # Technologies Used
