@@ -17,7 +17,7 @@
 <img width="900" alt="Screenshot 2022-05-22 at 5 57 27 PM" src="https://user-images.githubusercontent.com/56252259/169695127-0ce00e19-f25a-4125-92a0-ecf68a38ef52.png">
 
 # How to use it?
-* Add your contract on the Etherium chain using (Alchemy)[https://www.alchemy.com]
+* Add your contract on the Etherium chain using [Alchemy](https://www.alchemy.com)
 * Fork the website from Repel.it and change the contract address from the current to yours.
 * You are ready to go!
 
